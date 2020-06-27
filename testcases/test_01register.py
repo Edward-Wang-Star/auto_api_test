@@ -19,7 +19,7 @@ filename = os.path.join(handle_path.DATA_DIR, "apicases.xlsx")
 
 @ddt
 class RegisterTestCase(unittest.TestCase):
-    excel = HandleExcel(filename, "register")
+    excel = HandleExcel(filename, "register" )
     cases = excel.read_excel()
     db = handle_db.HandleMysql()
 
