@@ -1,0 +1,307 @@
+2020-06-26 21:16:29,251 -- [test_05add.py-->line:33] - INFO: --------登录结果：{'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:18:01,900 -- [test_05add.py-->line:33] - INFO: --------登录结果：{'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:22:38,790 -- [test_05add.py-->line:33] - INFO: --------登录结果：{'code': 1001, 'msg': '账号信息错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:29:27,670 -- [test_01register.py-->line:72] - INFO: 用例---注册成功-带注册名----执行通过
+2020-06-26 21:29:28,233 -- [test_01register.py-->line:72] - INFO: 用例---成功-不带用户名----执行通过
+2020-06-26 21:29:28,438 -- [test_01register.py-->line:72] - INFO: 用例---不输入手机号----执行通过
+2020-06-26 21:29:28,644 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度10位----执行通过
+2020-06-26 21:29:28,847 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度12位----执行通过
+2020-06-26 21:29:29,083 -- [test_01register.py-->line:72] - INFO: 用例---手机号含有非法字符----执行通过
+2020-06-26 21:29:29,324 -- [test_01register.py-->line:72] - INFO: 用例---已注册过的手机号----执行通过
+2020-06-26 21:29:29,542 -- [test_01register.py-->line:72] - INFO: 用例---密码7位----执行通过
+2020-06-26 21:29:29,757 -- [test_01register.py-->line:72] - INFO: 用例---密码17位----执行通过
+2020-06-26 21:29:29,988 -- [test_01register.py-->line:72] - INFO: 用例---不输入密码----执行通过
+2020-06-26 21:29:30,198 -- [test_01register.py-->line:72] - INFO: 用例---注册名11位----执行通过
+2020-06-26 21:29:30,404 -- [test_01register.py-->line:72] - INFO: 用例---类型输入非0，1内容----执行通过
+2020-06-26 21:29:30,875 -- [test_01register.py-->line:72] - INFO: 用例---不输入类型----执行通过
+2020-06-26 21:30:51,029 -- [test_01register.py-->line:72] - INFO: 用例---注册成功-带注册名----执行通过
+2020-06-26 21:30:51,511 -- [test_01register.py-->line:72] - INFO: 用例---成功-不带用户名----执行通过
+2020-06-26 21:30:51,707 -- [test_01register.py-->line:72] - INFO: 用例---不输入手机号----执行通过
+2020-06-26 21:30:51,922 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度10位----执行通过
+2020-06-26 21:30:52,153 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度12位----执行通过
+2020-06-26 21:30:52,365 -- [test_01register.py-->line:72] - INFO: 用例---手机号含有非法字符----执行通过
+2020-06-26 21:30:52,610 -- [test_01register.py-->line:72] - INFO: 用例---已注册过的手机号----执行通过
+2020-06-26 21:30:52,807 -- [test_01register.py-->line:72] - INFO: 用例---密码7位----执行通过
+2020-06-26 21:30:53,007 -- [test_01register.py-->line:72] - INFO: 用例---密码17位----执行通过
+2020-06-26 21:30:53,204 -- [test_01register.py-->line:72] - INFO: 用例---不输入密码----执行通过
+2020-06-26 21:30:53,404 -- [test_01register.py-->line:72] - INFO: 用例---注册名11位----执行通过
+2020-06-26 21:30:53,598 -- [test_01register.py-->line:72] - INFO: 用例---类型输入非0，1内容----执行通过
+2020-06-26 21:30:54,058 -- [test_01register.py-->line:72] - INFO: 用例---不输入类型----执行通过
+2020-06-26 21:33:46,993 -- [test_05add.py-->line:35] - INFO: --------登录结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-06-26 21:39:04', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjE5ODczOSwiZXhwIjoxNTkzMTc4NzQ0fQ.wGBSSUWDyHz0-AF7L1PmOfxivzQbJ5tInIotJt5J4a4MPv1n428ZzULCu_HPOda_TOOhrDSsr0kjR7_Te3xuqw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:35:04,660 -- [test_05add.py-->line:35] - INFO: --------登录结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-06-26 21:40:22', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjE5ODczOSwiZXhwIjoxNTkzMTc4ODIyfQ.49GKZjYOcDE9CKchaDc3B5MoBJmcfI2OsnueLo3rFlCEjSer7V0PK_u2o7XsEh2-GpmrKT2OIzNNgykTpehnhA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:39:56,433 -- [test_05add.py-->line:35] - INFO: --------登录结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-06-26 21:45:14', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjE5ODczOSwiZXhwIjoxNTkzMTc5MTE0fQ.ymaEOE1RduAxHEq1T00Iv6pm0j8WU-OVtrE_BM_eZNkM7gVMJf6XfJmcUYEi8r0_JG5KbL3BU_YrVajhz2lUNA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:40:26,019 -- [test_05add.py-->line:35] - INFO: --------登录结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-06-26 21:45:43', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjE5ODczOSwiZXhwIjoxNTkzMTc5MTQzfQ.m78OCnz9oqOUMZi_OHrmheFur0LyWKqlZBO9hX6mA3_yxpPf88Gve_u9foSda8pTb25yJIQKCiYHBjrOAk76zw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-26 21:40:26,023 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 0, 'msg': 'OK'}----------
+2020-06-26 21:40:26,203 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 0, 'msg': 'OK', 'data': {'id': 1271069, 'member_id': 198739, 'title': '借钱实现财富自由', 'amount': 2000.0, 'loan_rate': 12.0, 'loan_term': 3, 'loan_date_type': 1, 'bidding_days': 5, 'create_time': '2020-06-26 21:40:44.0', 'bidding_start_time': None, 'full_time': None, 'status': 1}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:26,300 -- [test_05add.py-->line:88] - INFO: 用例--加标成功--执行通过
+2020-06-26 21:40:26,432 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '用户id为空'}----------
+2020-06-26 21:40:26,507 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '用户id为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:26,507 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款人id为空--执行通过
+2020-06-26 21:40:26,631 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '标题为空'}----------
+2020-06-26 21:40:26,707 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '标题为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:26,707 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—标题为空--执行通过
+2020-06-26 21:40:26,831 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款金额为空'}----------
+2020-06-26 21:40:26,901 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款金额为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:26,901 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为空--执行通过
+2020-06-26 21:40:27,035 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '利率为空'}----------
+2020-06-26 21:40:27,112 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '利率为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:27,112 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—年利率为空--执行通过
+2020-06-26 21:40:27,239 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款期限为空'}----------
+2020-06-26 21:40:27,315 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款期限为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:27,315 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款期限为空--执行通过
+2020-06-26 21:40:27,439 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款日期类型为空'}----------
+2020-06-26 21:40:27,513 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款日期类型为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:27,513 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款期限类型为空--执行通过
+2020-06-26 21:40:27,641 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '竞标期限为空'}----------
+2020-06-26 21:40:27,714 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '竞标期限为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:27,714 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—竞标天数为空--执行通过
+2020-06-26 21:40:27,848 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1007, 'msg': '无权限访问，请检查参数'}----------
+2020-06-26 21:40:27,926 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1007, 'msg': '无权限访问，请检查参数', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:27,926 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款人id不是当前登录用户--执行通过
+2020-06-26 21:40:28,054 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 2, 'msg': '借款金额范围错误'}----------
+2020-06-26 21:40:28,125 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 2, 'msg': '借款金额范围错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:28,126 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为负数--执行通过
+2020-06-26 21:40:28,271 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 2, 'msg': '借款金额范围错误'}----------
+2020-06-26 21:40:28,350 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 2, 'msg': '借款金额范围错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-26 21:40:28,350 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为小数--执行通过
+2020-06-26 23:44:48,370 -- [test_06audit.py-->line:109] - INFO: 用例--审核通过--执行通过
+2020-06-26 23:44:48,787 -- [test_06audit.py-->line:109] - INFO: 用例--审核不通过--执行通过
+2020-06-26 23:44:49,155 -- [test_06audit.py-->line:109] - INFO: 用例--参数approved_or_not为空--执行通过
+2020-06-26 23:44:49,433 -- [test_06audit.py-->line:109] - INFO: 用例--项目id为空--执行通过
+2020-06-26 23:44:49,730 -- [test_06audit.py-->line:109] - INFO: 用例--项目id不存在--执行通过
+2020-06-26 23:48:48,705 -- [test_06audit.py-->line:109] - INFO: 用例--审核通过--执行通过
+2020-06-26 23:52:12,658 -- [test_06audit.py-->line:109] - INFO: 用例--审核不通过--执行通过
+2020-06-26 23:55:37,535 -- [test_06audit.py-->line:110] - INFO: 用例--审核通过--执行通过
+2020-06-26 23:55:37,937 -- [test_06audit.py-->line:110] - INFO: 用例--审核不通过--执行通过
+2020-06-26 23:55:38,319 -- [test_06audit.py-->line:110] - INFO: 用例--参数approved_or_not为空--执行通过
+2020-06-26 23:55:38,597 -- [test_06audit.py-->line:110] - INFO: 用例--项目id为空--执行通过
+2020-06-26 23:55:38,891 -- [test_06audit.py-->line:110] - INFO: 用例--项目id不存在--执行通过
+2020-06-26 23:58:18,252 -- [test_06audit.py-->line:110] - INFO: 用例--审核通过--执行通过
+2020-06-26 23:58:18,691 -- [test_06audit.py-->line:110] - INFO: 用例--审核不通过--执行通过
+2020-06-26 23:58:19,046 -- [test_06audit.py-->line:110] - INFO: 用例--参数approved_or_not为空--执行通过
+2020-06-26 23:58:19,314 -- [test_06audit.py-->line:110] - INFO: 用例--项目id为空--执行通过
+2020-06-26 23:58:19,613 -- [test_06audit.py-->line:110] - INFO: 用例--项目id不存在--执行通过
+2020-06-26 23:59:16,108 -- [test_06audit.py-->line:110] - INFO: 用例--审核通过--执行通过
+2020-06-26 23:59:16,522 -- [test_06audit.py-->line:110] - INFO: 用例--审核不通过--执行通过
+2020-06-26 23:59:16,792 -- [test_06audit.py-->line:110] - INFO: 用例--项目不待审核状态--执行通过
+2020-06-26 23:59:17,070 -- [test_06audit.py-->line:110] - INFO: 用例--参数approved_or_not为空--执行通过
+2020-06-26 23:59:17,368 -- [test_06audit.py-->line:110] - INFO: 用例--项目id为空--执行通过
+2020-06-26 23:59:17,647 -- [test_06audit.py-->line:110] - INFO: 用例--项目id不存在--执行通过
+2020-06-27 20:54:06,083 -- [run_test.py-->line:11] - INFO: --------------------开始执行案例-------------------
+2020-06-27 20:54:08,491 -- [test_01register.py-->line:72] - INFO: 用例---注册成功-带注册名----执行通过
+2020-06-27 20:54:08,970 -- [test_01register.py-->line:72] - INFO: 用例---成功-不带用户名----执行通过
+2020-06-27 20:54:09,171 -- [test_01register.py-->line:72] - INFO: 用例---不输入手机号----执行通过
+2020-06-27 20:54:09,370 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度10位----执行通过
+2020-06-27 20:54:09,560 -- [test_01register.py-->line:72] - INFO: 用例---手机号长度12位----执行通过
+2020-06-27 20:54:09,768 -- [test_01register.py-->line:72] - INFO: 用例---手机号含有非法字符----执行通过
+2020-06-27 20:54:10,006 -- [test_01register.py-->line:72] - INFO: 用例---已注册过的手机号----执行通过
+2020-06-27 20:54:10,205 -- [test_01register.py-->line:72] - INFO: 用例---密码7位----执行通过
+2020-06-27 20:54:10,405 -- [test_01register.py-->line:72] - INFO: 用例---密码17位----执行通过
+2020-06-27 20:54:10,600 -- [test_01register.py-->line:72] - INFO: 用例---不输入密码----执行通过
+2020-06-27 20:54:10,802 -- [test_01register.py-->line:72] - INFO: 用例---注册名11位----执行通过
+2020-06-27 20:54:10,995 -- [test_01register.py-->line:72] - INFO: 用例---类型输入非0，1内容----执行通过
+2020-06-27 20:54:11,476 -- [test_01register.py-->line:72] - INFO: 用例---不输入类型----执行通过
+2020-06-27 20:54:11,713 -- [test_02login.py-->line:62] - INFO: 用例---登录成功----执行通过
+2020-06-27 20:54:11,907 -- [test_02login.py-->line:62] - INFO: 用例---手机号为空----执行通过
+2020-06-27 20:54:12,103 -- [test_02login.py-->line:62] - INFO: 用例---密码为空----执行通过
+2020-06-27 20:54:12,350 -- [test_02login.py-->line:62] - INFO: 用例---手机号未注册----执行通过
+2020-06-27 20:54:12,596 -- [test_02login.py-->line:62] - INFO: 用例---密码错误----执行通过
+2020-06-27 20:54:12,799 -- [test_02login.py-->line:62] - INFO: 用例---手机号格式错误----执行通过
+2020-06-27 20:54:13,367 -- [test_03recharge.py-->line:99] - INFO: ---用例充值成功-整数执行完成---------
+2020-06-27 20:54:13,734 -- [test_03recharge.py-->line:99] - INFO: ---用例充值成功-1位小数执行完成---------
+2020-06-27 20:54:14,082 -- [test_03recharge.py-->line:99] - INFO: ---用例充值成功-2位小数执行完成---------
+2020-06-27 20:54:14,450 -- [test_03recharge.py-->line:99] - INFO: ---用例充值成功-50万执行完成---------
+2020-06-27 20:54:14,645 -- [test_03recharge.py-->line:99] - INFO: ---用例会员id为空执行完成---------
+2020-06-27 20:54:14,956 -- [test_03recharge.py-->line:99] - INFO: ---用例id不是当前登录的用户执行完成---------
+2020-06-27 20:54:15,153 -- [test_03recharge.py-->line:93] - DEBUG: ----用例会员id为字符串执行完成-------
+2020-06-27 20:54:15,153 -- [test_03recharge.py-->line:94] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_03recharge.py", line 84, in test_recharge
+    self.assertEqual(expected["code"], jsonpath(res, "$..code")[0])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 905, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2020-06-27 20:54:15,365 -- [test_03recharge.py-->line:99] - INFO: ---用例会员id为小数执行完成---------
+2020-06-27 20:54:15,582 -- [test_03recharge.py-->line:93] - DEBUG: ----用例充值金额为0执行完成-------
+2020-06-27 20:54:15,582 -- [test_03recharge.py-->line:94] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_03recharge.py", line 84, in test_recharge
+    self.assertEqual(expected["code"], jsonpath(res, "$..code")[0])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 905, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2020-06-27 20:54:15,776 -- [test_03recharge.py-->line:99] - INFO: ---用例充值金额为负数执行完成---------
+2020-06-27 20:54:15,984 -- [test_03recharge.py-->line:93] - DEBUG: ----用例充值金额为空执行完成-------
+2020-06-27 20:54:15,985 -- [test_03recharge.py-->line:94] - ERROR: 1 != 2
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_03recharge.py", line 84, in test_recharge
+    self.assertEqual(expected["code"], jsonpath(res, "$..code")[0])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 905, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 2
+2020-06-27 20:54:16,182 -- [test_03recharge.py-->line:93] - DEBUG: ----用例充值金额-3位小数执行完成-------
+2020-06-27 20:54:16,182 -- [test_03recharge.py-->line:94] - ERROR: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_03recharge.py", line 85, in test_recharge
+    self.assertEqual(expected["msg"], jsonpath(res, "$..msg")[0])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 1292, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 753, in fail
+    raise self.failureException(msg)
+AssertionError: '金额小数超过两位' != '余额小数超过两位'
+- 金额小数超过两位
+? ^
++ 余额小数超过两位
+? ^
+
+2020-06-27 20:54:16,392 -- [test_03recharge.py-->line:93] - DEBUG: ----用例充值金额-大于50万执行完成-------
+2020-06-27 20:54:16,392 -- [test_03recharge.py-->line:94] - ERROR: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_03recharge.py", line 85, in test_recharge
+    self.assertEqual(expected["msg"], jsonpath(res, "$..msg")[0])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 1292, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 753, in fail
+    raise self.failureException(msg)
+AssertionError: '金额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于500000'
+- 金额必须大于0并且小于或者等于500000
+? ^
++ 余额必须大于0并且小于或者等于500000
+? ^
+
+2020-06-27 20:54:16,598 -- [test_03recharge.py-->line:99] - INFO: ---用例充值金额-非数字执行完成---------
+2020-06-27 20:54:16,925 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现成功-整数--执行通过
+2020-06-27 20:54:17,133 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现成功-1位小数--执行通过
+2020-06-27 20:54:17,354 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现成功-2位小数--执行通过
+2020-06-27 20:54:17,568 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现成功-50万--执行通过
+2020-06-27 20:54:17,768 -- [test_04withdraw.py-->line:94] - INFO: 用例--会员id为空--执行通过
+2020-06-27 20:54:17,967 -- [test_04withdraw.py-->line:94] - INFO: 用例--会员id不存在--执行通过
+2020-06-27 20:54:18,173 -- [test_04withdraw.py-->line:87] - ERROR: 用例会员id为字符串执行未通过
+2020-06-27 20:54:18,173 -- [test_04withdraw.py-->line:88] - DEBUG: 预期结果：{'code': 2, 'msg': '数字格式化异常'}
+2020-06-27 20:54:18,173 -- [test_04withdraw.py-->line:89] - DEBUG: 实际结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-06-27 20:54:18,173 -- [test_04withdraw.py-->line:90] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_04withdraw.py", line 79, in test_withdraw
+    self.assertEqual(expected["code"],res["code"])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 905, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2020-06-27 20:54:18,399 -- [test_04withdraw.py-->line:94] - INFO: 用例--会员id为小数--执行通过
+2020-06-27 20:54:18,601 -- [test_04withdraw.py-->line:87] - ERROR: 用例提现金额为0执行未通过
+2020-06-27 20:54:18,601 -- [test_04withdraw.py-->line:88] - DEBUG: 预期结果：{'code': 2, 'msg': '余额必须大于0并且小于或者等于500000'}
+2020-06-27 20:54:18,601 -- [test_04withdraw.py-->line:89] - DEBUG: 实际结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-06-27 20:54:18,601 -- [test_04withdraw.py-->line:90] - ERROR: 2 != 0
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_04withdraw.py", line 79, in test_withdraw
+    self.assertEqual(expected["code"],res["code"])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 905, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 2 != 0
+2020-06-27 20:54:18,806 -- [test_04withdraw.py-->line:87] - ERROR: 用例提现金额为负数执行未通过
+2020-06-27 20:54:18,806 -- [test_04withdraw.py-->line:88] - DEBUG: 预期结果：{'code': 2, 'msg': '余额必须大于0并且小于或者等于500000'}
+2020-06-27 20:54:18,806 -- [test_04withdraw.py-->line:89] - DEBUG: 实际结果：{'code': 2, 'msg': '余额必须大于0并且小于或者等于5000000', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-06-27 20:54:18,806 -- [test_04withdraw.py-->line:90] - ERROR: '余额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 余额必须大于0并且小于或者等于500000
++ 余额必须大于0并且小于或者等于5000000
+?                      +
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_04withdraw.py", line 80, in test_withdraw
+    self.assertEqual(expected["msg"], res["msg"])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 1292, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 753, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 余额必须大于0并且小于或者等于500000
++ 余额必须大于0并且小于或者等于5000000
+?                      +
+
+2020-06-27 20:54:19,017 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现金额为空--执行通过
+2020-06-27 20:54:19,227 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现金额-3位小数--执行通过
+2020-06-27 20:54:19,434 -- [test_04withdraw.py-->line:87] - ERROR: 用例提现金额-大于50万执行未通过
+2020-06-27 20:54:19,434 -- [test_04withdraw.py-->line:88] - DEBUG: 预期结果：{'code': 2, 'msg': '余额必须大于0并且小于或者等于500000'}
+2020-06-27 20:54:19,434 -- [test_04withdraw.py-->line:89] - DEBUG: 实际结果：{'code': 2, 'msg': '余额必须大于0并且小于或者等于5000000', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-06-27 20:54:19,434 -- [test_04withdraw.py-->line:90] - ERROR: '余额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 余额必须大于0并且小于或者等于500000
++ 余额必须大于0并且小于或者等于5000000
+?                      +
+Traceback (most recent call last):
+  File "D:\PychramCode\auto_api_test\testcases\test_04withdraw.py", line 80, in test_withdraw
+    self.assertEqual(expected["msg"], res["msg"])
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 912, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 1292, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Program Files\Python38\lib\unittest\case.py", line 753, in fail
+    raise self.failureException(msg)
+AssertionError: '余额必须大于0并且小于或者等于500000' != '余额必须大于0并且小于或者等于5000000'
+- 余额必须大于0并且小于或者等于500000
++ 余额必须大于0并且小于或者等于5000000
+?                      +
+
+2020-06-27 20:54:19,633 -- [test_04withdraw.py-->line:94] - INFO: 用例--提现金额-非数字--执行通过
+2020-06-27 20:54:19,904 -- [test_05add.py-->line:35] - INFO: --------登录结果：{'code': 0, 'msg': 'OK', 'data': {'id': 198739, 'leave_amount': 0.0, 'mobile_phone': '15504696492', 'reg_name': '34254sdfs', 'reg_time': '2020-06-26 21:31:08.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-06-27 20:59:38', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjE5ODczOSwiZXhwIjoxNTkzMjYyNzc4fQ.GVBFKUtAdxBxhkVv4gj_9CY2jM-MfEM9n2Ek6DL-O9EdlvVFZc4PefYTIbT_xQoL3W8y9XsKJUxL_q1sFjBjqA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}--------
+2020-06-27 20:54:19,905 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 0, 'msg': 'OK'}----------
+2020-06-27 20:54:20,108 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 0, 'msg': 'OK', 'data': {'id': 1275400, 'member_id': 198739, 'title': '借钱实现财富自由', 'amount': 2000.0, 'loan_rate': 12.0, 'loan_term': 3, 'loan_date_type': 1, 'bidding_days': 5, 'create_time': '2020-06-27 20:54:38.0', 'bidding_start_time': None, 'full_time': None, 'status': 1}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:20,227 -- [test_05add.py-->line:88] - INFO: 用例--加标成功--执行通过
+2020-06-27 20:54:20,361 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '用户id为空'}----------
+2020-06-27 20:54:20,436 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '用户id为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:20,436 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款人id为空--执行通过
+2020-06-27 20:54:20,557 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '标题为空'}----------
+2020-06-27 20:54:20,631 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '标题为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:20,631 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—标题为空--执行通过
+2020-06-27 20:54:20,757 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款金额为空'}----------
+2020-06-27 20:54:20,828 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款金额为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:20,828 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为空--执行通过
+2020-06-27 20:54:20,955 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '利率为空'}----------
+2020-06-27 20:54:21,027 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '利率为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:21,027 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—年利率为空--执行通过
+2020-06-27 20:54:21,151 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款期限为空'}----------
+2020-06-27 20:54:21,228 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款期限为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:21,228 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款期限为空--执行通过
+2020-06-27 20:54:21,359 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '借款日期类型为空'}----------
+2020-06-27 20:54:21,435 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '借款日期类型为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:21,435 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款期限类型为空--执行通过
+2020-06-27 20:54:21,556 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1, 'msg': '竞标期限为空'}----------
+2020-06-27 20:54:21,622 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1, 'msg': '竞标期限为空', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:21,622 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—竞标天数为空--执行通过
+2020-06-27 20:54:21,749 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 1007, 'msg': '无权限访问，请检查参数'}----------
+2020-06-27 20:54:21,828 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 1007, 'msg': '无权限访问，请检查参数', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:21,828 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款人id不是当前登录用户--执行通过
+2020-06-27 20:54:21,949 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 2, 'msg': '借款金额范围错误'}----------
+2020-06-27 20:54:22,029 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 2, 'msg': '借款金额范围错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:22,029 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为负数--执行通过
+2020-06-27 20:54:22,154 -- [test_05add.py-->line:59] - INFO: --------预期结果：{'code': 2, 'msg': '借款金额范围错误'}----------
+2020-06-27 20:54:22,229 -- [test_05add.py-->line:69] - INFO: --------实际结果：{'code': 2, 'msg': '借款金额范围错误', 'data': None, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}----------
+2020-06-27 20:54:22,229 -- [test_05add.py-->line:88] - INFO: 用例--加标失败—借款金额为小数--执行通过
+2020-06-27 20:54:22,832 -- [test_06audit.py-->line:110] - INFO: 用例--审核通过--执行通过
+2020-06-27 20:54:23,250 -- [test_06audit.py-->line:110] - INFO: 用例--审核不通过--执行通过
+2020-06-27 20:54:23,530 -- [test_06audit.py-->line:110] - INFO: 用例--项目不待审核状态--执行通过
+2020-06-27 20:54:23,841 -- [test_06audit.py-->line:110] - INFO: 用例--参数approved_or_not为空--执行通过
+2020-06-27 20:54:24,108 -- [test_06audit.py-->line:110] - INFO: 用例--项目id为空--执行通过
+2020-06-27 20:54:24,375 -- [test_06audit.py-->line:110] - INFO: 用例--项目id不存在--执行通过
+2020-06-27 20:54:24,659 -- [run_test.py-->line:24] - INFO: ------------------测试案例执行结束--------------------
